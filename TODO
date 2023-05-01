@@ -1,0 +1,28 @@
+Sure, here are some features and commands for a discord economy system:
+
+**Features:**
+
+1. Virtual currency: Users can earn and spend virtual currency in the discord server.
+2. Loans: Users can take out loans from the virtual bank and repay them with interest.
+3. Bank account: Users can open and maintain bank accounts with the virtual bank to store their virtual currency.
+4. Taxes: Users are subject to taxes on their transactions with the virtual bank.
+5. Virtual assets: Users can purchase and sell virtual assets, such as stocks or real estate, in the discord server.
+6. Job system: Users can work various jobs to earn virtual currency.
+7. Random events: Random events can occur that affect users' virtual currency and assets, such as a stock market crash or a natural disaster.
+
+**Commands:**
+
+1. `!register`: Registers the user in the economy system.
+2. `!balance`: Shows the user's current virtual currency balance.
+3. `!deposit <amount>`: Deposits virtual currency into the user's bank account.
+4. `!withdraw <amount>`: Withdraws virtual currency from the user's bank account.
+5. `!loan <amount>`: Requests a loan from the virtual bank.
+6. `!repay <amount>`: Repays a portion of the user's outstanding loan balance.
+7. `!job <job_name>`: Allows the user to work at a job to earn virtual currency.
+8. `!buy <asset_name> <quantity>`: Allows the user to purchase virtual assets.
+9. `!sell <asset_name> <quantity>`: Allows the user to sell virtual assets.
+10. `!taxes`: Shows the user's tax history and current tax rate.
+
+These commands can be expanded upon or modified to fit your specific needs, but they provide a basic framework for a discord economy system with virtual currency, loans, bank accounts, virtual assets, and jobs. The inclusion of random events can add an element of unpredictability and realism to the economy system.
+
+Current functions:
