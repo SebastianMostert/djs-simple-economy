@@ -1,6 +1,6 @@
 {
-  "name": "discord-verification",
-  "version": "3.0.2",
+  "name": "djs-simple-economy",
+  "version": "1.0.0",
   "description": "A package to help with verification.",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,6 @@
   },
   "keywords": [
     "Discord.js",
-    "Verification",
-    "Discord Verification",
     "Discord.JS V14"
   ],
   "author": {

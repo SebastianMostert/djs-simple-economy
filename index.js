@@ -1,3 +1,12 @@
-module.exports.bankAccountManager = require('./managers/bankAccountManager')
-module.exports.transferManager = require('./managers/transferManager')
-module.exports.userAccountManager = require('./managers/userAccountManager')
+const bankAccountManager = require('./managers/bankAccountManager')
+const transferManager = require('./managers/transferManager')
+const userAccountManager = require('./managers/userAccountManager')
+const bankManager = require('./managers/bankManager')
+
+
+module.exports.EconomySystem = {
+    bankAccountManager,
+    transferManager,
+    userAccountManager,
+    bankManager,
+}
